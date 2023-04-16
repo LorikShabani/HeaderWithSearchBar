@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "T-Shirt",
+    "link": "https://demo.jtl-shop.blackbike-forest.de/Damen-Funktionsshirt-gruen",
+    "image_link": "https://demo.jtl-shop.blackbike-forest.de/media/image/product/866/sm/damen-funktionsshirt-gruen.jpg",
+    "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ornare odio. Quisque non rhoncus justo, quis malesuada dolor. Praesent eleifend lorem quis velit blandit, eu volutpat sapien placerat.",
+    "color": "green",
+    "size": "L",
+    "price": "15.99"
+  },
+  {
+    "id": "2",
+    "title": "Jogging-hoodie",
+    "link": "https://demo.jtl-shop.blackbike-forest.de/Damen-Jogginganzug",
+    "image_link": "https://demo.jtl-shop.blackbike-forest.de/media/image/product/867/sm/damen-jogginganzug~2.jpg",
+    "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ornare odio. Quisque non rhoncus justo, quis malesuada dolor. Praesent eleifend lorem quis velit blandit, eu volutpat sapien placerat.",
+    "color": "yellow",
+    "size": "XL",
+    "price": "39.99"
+  },
+  {
+    "id": "3",
+    "title": "Shorts",
+    "link": "https://demo.jtl-shop.blackbike-forest.de/Herren-Boxen-kurze-Hose",
+    "image_link": "https://demo.jtl-shop.blackbike-forest.de/media/image/product/878/sm/herren-boxen-kurze-hose.jpg",
+    "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ornare odio. Quisque non rhoncus justo, quis malesuada dolor. Praesent eleifend lorem quis velit blandit, eu volutpat sapien placerat.",
+    "color": "gray",
+    "size": "M",
+    "price": "45.00"
+  },
+  {
+    "id": "4",
+    "title": "Joggings",
+    "link": "https://demo.jtl-shop.blackbike-forest.de/Herren-Jogginghose",
+    "image_link": "https://demo.jtl-shop.blackbike-forest.de/media/image/product/888/sm/herren-jogginghose.jpg",
+    "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ornare odio. Quisque non rhoncus justo, quis malesuada dolor. Praesent eleifend lorem quis velit blandit, eu volutpat sapien placerat.",
+    "color": "gray",
+    "size": "L",
+    "price": "39.99"
+  }
+]
